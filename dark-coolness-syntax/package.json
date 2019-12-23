@@ -1,0 +1,18 @@
+{
+  "name": "dark-coolness-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "It's colorful, high-contrast, and dark syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "colorful",
+    "dark"
+
+  ],
+  "repository": "https://github.com/atom/dark-coolness-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
